@@ -1,0 +1,18 @@
+{
+  "appTitle": "Black Box",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "settingsTitle": "Settings",
+  "settingsDarkTheme": "Dark Theme",
+  "settingsLightTheme": "Light Theme",
+  "settingsSystemTheme": "System preferred",
+  
+  "newGameTitle": "New game",
+  "newGameBallsCount": "Balls count",
+  "newGameBallsCountErrorInvalid": "Balls count must be smaller than half of grid size",
+  "newGameTimeout": "Timeout",
+  "newGameGridSize": "Grid Size",
+  "newGameGridSizeErrorInvalid": "Grid size must be bigger than 1x1",
+}
+  

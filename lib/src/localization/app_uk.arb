@@ -1,0 +1,17 @@
+{
+  "appTitle": "blackbox_flutter",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "settingsTitle": "Налаштування",
+  "settingsDarkTheme": "Темна тема",
+  "settingsLightTheme": "Світла тема",
+  "settingsSystemTheme": "Системна тема",
+  
+  "newGameTitle": "New game",
+  "newGameBallsCount": "Balls count",
+  "newGameBallsCountErrorInvalid": "Balls count must be smaller than half of grid size",
+  "newGameTimeout": "Timeout",
+  "newGameGridSize": "Grid Size",
+  "newGameGridSizeErrorInvalid": "Grid size must be bigger than 1x1",
+}
